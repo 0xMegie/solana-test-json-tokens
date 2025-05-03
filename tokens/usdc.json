@@ -1,5 +1,6 @@
 {
     "name":"Circle USDC",
     "symbol":"USDC",
-    "image":""
+    "image":"https://raw.githubusercontent.com/0xMegie/solana-test-json-tokens/main/logo/usdc.jpg"
 }
+
